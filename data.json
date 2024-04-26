@@ -1,0 +1,94 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Robusta Lampung",
+            "size": "150 m",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://asset-3.tstatic.net/jualbeli/img/2023/10/2735441/1-1368354702-PROMO-082181539591-Kopi-Robusta-Lampung-Di-Bandung.jpg"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Jus jeruk",
+            "size": "100 ml",
+            "harga": "12.000",
+            "link": "#",
+            "foto": "https://disk.mediaindonesia.com/thumbs/480x320/news/2023/10/71e0731b190b897f4f412c712314d02e.jpg"
+        },
+        {
+            "nama": "Es Alpukat Kocok",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://infokost.id/blog/wp-content/uploads/2023/10/FotoJet-2-1-1757701626.webp"
+        }
+    ],
+    "makanan": [
+        {
+            "nama": "Pisang keju",
+            "size": "200 gr",
+            "harga": "22.000",
+            "link": "#",
+            "foto": "https://cdn.idntimes.com/content-images/post/20230727/maxresdefault-2-f24482ae85c01ae0c27b11c6f9c4e738.jpg"
+        },
+        {
+            "nama": "Jagung Bakar",
+            "size": "200 gr",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2022/01/12/getok-harga-parkir-saat-makan-jagung-bakar-2_169.jpeg?w=1200"
+        },
+        {
+            "nama": "Roti Bakar",
+            "size": "200 gr",
+            "harga": "14.000",
+            "link": "#",
+            "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/14031149/X-Resep-Roti-Bakar-Berbagai-Isi-Cocok-untuk-Pengidap-Diabetes.jpg.webp"
+        }
+    ]
+}
